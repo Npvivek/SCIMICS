@@ -59,7 +59,7 @@ export default function SignIn() {
                 // maxWidth="xs"
                 sx={{
                     width: '438px',
-                    height: '584px',
+                    height: '555px',
                     mt: 2, borderRadius: '10px',
                     border: '1px solid rgba(44, 45, 60, 0.50)', background: "linear-gradient(151deg, rgba(44, 45, 60, 0.47) 3.72%, rgba(15, 16, 18, 0.66) 96.89%) "
                 }} >
