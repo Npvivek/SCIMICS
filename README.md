@@ -1,6 +1,6 @@
 ## To develop the project locally:
 
-Clone the project in a folder.
+1. Clone the project in a folder.
 
 ```
 
@@ -10,4 +10,5 @@ npm start
 
 ```
 
-Use only Material UI Components for styling. [Refer here](https://mui.com/material-ui/getting-started/).
+1. Use only Material UI Components for styling. [Refer here](https://mui.com/material-ui/getting-started/).
+1. After changes if you wish to contribute to this repository, please pull request.
