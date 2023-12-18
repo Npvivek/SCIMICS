@@ -10,5 +10,6 @@ npm start
 
 ```
 
-1. Use only Material UI Components for styling. [Refer here](https://mui.com/material-ui/getting-started/).
-1. After changes if you wish to contribute to this repository, please pull request.
+2. Use only Material UI Components for styling. [Refer here](https://mui.com/material-ui/getting-started/).
+3. After changes, if you wish to contribute to this repository, please pull request.
+4. As of now only Login, Registration and OTP pages are done.
