@@ -9,3 +9,5 @@ npm install
 npm start
 
 ```
+
+Use only Material UI Components for styling. [Refer here](https://mui.com/material-ui/getting-started/).
