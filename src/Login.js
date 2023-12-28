@@ -142,7 +142,7 @@ export default function SignIn() {
                             </Grid>
 
                             <Grid item xs={5} sx={{ display: 'flex' }} >
-                                <Link href="#" variant="body2" sx={{ color: '#CED765' }}>
+                                <Link to={'/register'} variant="body2" sx={{ color: '#CED765' }}>
                                     {"Register account"}
                                 </Link>
                             </Grid>
