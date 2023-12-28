@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SCIMICS/static/css/main.0aa06d7b.css",
+    "main.js": "/SCIMICS/static/js/main.d6f305e9.js",
+    "static/js/787.311f144a.chunk.js": "/SCIMICS/static/js/787.311f144a.chunk.js",
+    "static/media/SCIMICS.svg": "/SCIMICS/static/media/SCIMICS.1e8883a2c0831180a111d225e094980c.svg",
+    "index.html": "/SCIMICS/index.html",
+    "main.0aa06d7b.css.map": "/SCIMICS/static/css/main.0aa06d7b.css.map",
+    "main.d6f305e9.js.map": "/SCIMICS/static/js/main.d6f305e9.js.map",
+    "787.311f144a.chunk.js.map": "/SCIMICS/static/js/787.311f144a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aa06d7b.css",
+    "static/js/main.d6f305e9.js"
+  ]
+}
